@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+music-bang-dev/
 env/
 build/
 develop-eggs/
